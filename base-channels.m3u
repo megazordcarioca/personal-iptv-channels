@@ -1,10 +1,12 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
-#EXTINF:-1 tvg-id="BSTokyoTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://pt.wikipedia.org/wiki/TV_Tokyo#/media/Ficheiro:TV_Tokyo_logo_20110629.svg" group-title="Undefined", BS Tokyo TV(TEST)
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml"
+#EXTINF:-1 tvg-id="ATX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/512px-AT-X_logo.svg.png" group-title="Animation",AT-X (720p) [Not 24/7]
+https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Asahi.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://en.wikipedia.org/wiki/TV_Asahi#/media/File:TV_Asahi_Logo.svg" group-title="Animation",BS Asahi
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-id="BSTokyoTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://pt.wikipedia.org/wiki/TV_Tokyo#/media/Ficheiro:TV_Tokyo_logo_20110629.svg" group-title="Undefined", BS Tokyo TV
 http://203.162.235.41:16915
-#EXTINF:-1 tvg-id="BSFujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/512px-Fuji_TV_logo.svg.png" group-title="Undefined",BS Fuji TV (TEST)
+#EXTINF:-1 tvg-id="BSFujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/512px-Fuji_TV_logo.svg.png" group-title="Undefined",BS Fuji TV
 http://203.162.235.41:16911
-#EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/512px-Fuji_TV_logo.svg.png" group-title="Undefined",Fuji TV (540p) [Not 24/7]
-https://fujitv2.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="GunmaTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/512px-Gtv_logo_ja_01.svg.png" group-title="Undefined",Gunma TV (720p)
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
@@ -45,3 +47,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/512px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Undefined",Tokyo MX2 (720p)
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 tvg-id="SBSTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/512px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="Undefined",SBS (1080p)
+http://222.109.117.27:9981/stream/channelid/2096368258
+#EXTINF:-1 tvg-id="AnimaxKorea.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax (1080p) [Not 24/7]
+https://apichvod19.seezntv.com/OTM/10520_H.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+#EXTINF:-1 tvg-id="tvN.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Entertainment;Series",tvN (1080p) [Not 24/7]
+https://apichvod19.seezntv.com/OTM/10050_H.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
