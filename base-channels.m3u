@@ -19,8 +19,8 @@ https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
 http://203.162.235.41:16906
 #EXTINF:-1 tvg-id="BSTokyoTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://pt.wikipedia.org/wiki/TV_Tokyo#/media/Ficheiro:TV_Tokyo_logo_20110629.svg" group-title="Undefined", BS Tokyo TV
 http://203.162.235.41:16915
-#EXTINF:-1 tvg-id="BSFujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/512px-Fuji_TV_logo.svg.png" group-title="Undefined",BS Fuji TV
-http://203.162.235.41:16911
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/512px-Fuji_TV_logo.svg.png" group-title="Undefined",BS Fuji TV
+https://fujitv2.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="GunmaTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/512px-Gtv_logo_ja_01.svg.png" group-title="Undefined",Gunma TV (720p)
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="INT" tvg-language="English;Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General",KBS World (720p)
