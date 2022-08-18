@@ -1,10 +1,10 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml","https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml"
 #EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Brazil",SBT Ⓢ
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="Religious",Rede Brasil de Comunicação (720p) [Not 24/7]
-http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 #EXTINF:-1 tvg-id="CBNRio.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN Rio (720p)
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 tvg-id="GloboRio.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://pt.wikipedia.org/wiki/TV_Globo#/media/Ficheiro:Logotipo_da_TV_Globo.png" group-title="News",Globo Rio Teste (720p)
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-id="JTBC2.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/kljWkXS.png" group-title="Entertainment",JTBC2 (1080p) [Not 24/7]
 https://apichvod19.seezntv.com/OTM/10780_H.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 #EXTINF:-1 tvg-id="MBCTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/512px-Munhwa_Broadcasting_Company.svg.png" group-title="Undefined",MBC (1080p)
